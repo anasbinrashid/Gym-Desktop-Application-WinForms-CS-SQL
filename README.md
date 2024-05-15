@@ -1,4 +1,4 @@
-# Flex Trainer - Gym Desktop Application
+# Gym Desktop Application
 
 Welcome to Flex Trainer, a comprehensive gym management system designed to streamline operations for gym owners, trainers, and members. This application, built using Windows Forms and integrated with a Microsoft SQL Server database, offers a range of features to facilitate fitness goal management, workout planning, diet tracking, and personal training sessions booking.
 
